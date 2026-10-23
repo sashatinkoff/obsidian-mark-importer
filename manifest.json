@@ -1,0 +1,9 @@
+{
+  "id": "mark-importer",
+  "name": "MarkImporter",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.10",
+  "description": "Создаёт заметки из PDF, сайтов, постов Telegram, DOCX/TXT и буфера обмена с сохранением вёрстки и предпросмотром «оригинал | результат».",
+  "author": "sashatinkoff",
+  "isDesktopOnly": false
+}
